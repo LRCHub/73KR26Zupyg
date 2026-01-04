@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "贈る言葉",
+  "base_artist": "Kaientai",
+  "createdAt": "2026-01-04T06:26:04.549051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_贈る言葉_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/02_贈る言葉_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": true,
+      "path": "select/03_贈る言葉_海援隊.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/04_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/05_贈る言葉_FLOW.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "贈る言葉 - Okuru Kotoba",
+      "artist": "Kaientai",
+      "has_synced": true,
+      "path": "select/06_贈る言葉_-_Okuru_Kotoba_Kaientai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/07_贈る言葉_大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "贈る言葉",
+      "artist": "フロウ F.L.O.W",
+      "has_synced": true,
+      "path": "select/08_贈る言葉_フロウ_F.L.O.W.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_01_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_02_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_03_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_04_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_05_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_06_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_07_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_08_贈る言葉_海援隊.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "贈る言葉 [オリジナル・カラオケ]",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/pl_09_贈る言葉_[オリジナル・カラオケ]_海援隊.txt"
+    }
+  ]
+}
